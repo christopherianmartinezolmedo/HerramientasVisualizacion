@@ -1,0 +1,5 @@
+     serie                        nombre                  fuente     n     ultimo        max        min   promedio
+0  SF43718  Tipo de cambio FIX (MXN/USD)  SINTÉTICOS (sin token)  1013  17.013325  18.230922  17.002690  17.772991
+1  SF61745  Tasa objetivo de Banxico (%)  SINTÉTICOS (sin token)  1013   8.861812  10.056484   8.748205   9.401882
+2  SP68257         UDIS (valor en pesos)  SINTÉTICOS (sin token)  1013   7.032506   7.616394   6.701931   7.117574
+3  SF43783            TIIE a 28 días (%)  SINTÉTICOS (sin token)  1013  10.877606  11.212808  10.032733  10.636312
